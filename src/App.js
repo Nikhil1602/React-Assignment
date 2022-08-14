@@ -7,11 +7,11 @@ import TaskTwo from "./tasks/TaskTwo";
 const NavBar = () => {
   let navigate = useNavigate();
   const handleTaskOne = () => {
-    navigate("/taskOne");
+    navigate("/react-assignment/taskOne");
   };
 
   const handleTaskTwo = () => {
-    navigate("/taskTwo");
+    navigate("/react-assignment/taskTwo");
   };
 
   return (
