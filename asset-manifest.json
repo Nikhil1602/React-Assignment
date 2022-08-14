@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/react-assignment/static/css/main.74272b32.css",
-    "main.js": "/react-assignment/static/js/main.0464bd7b.js",
-    "index.html": "/react-assignment/index.html",
-    "main.74272b32.css.map": "/react-assignment/static/css/main.74272b32.css.map",
-    "main.0464bd7b.js.map": "/react-assignment/static/js/main.0464bd7b.js.map"
+    "main.css": "https://Nikhil1602.github.io/react-assignment/static/css/main.74272b32.css",
+    "main.js": "https://Nikhil1602.github.io/react-assignment/static/js/main.57cedf84.js",
+    "index.html": "https://Nikhil1602.github.io/react-assignment/index.html",
+    "main.74272b32.css.map": "https://Nikhil1602.github.io/react-assignment/static/css/main.74272b32.css.map",
+    "main.57cedf84.js.map": "https://Nikhil1602.github.io/react-assignment/static/js/main.57cedf84.js.map"
   },
   "entrypoints": [
     "static/css/main.74272b32.css",
-    "static/js/main.0464bd7b.js"
+    "static/js/main.57cedf84.js"
   ]
 }
