@@ -32,13 +32,13 @@ Just click on any button to view the task.
 First of all, clone the project to your local machine
 
 ```bash
-  $ git clone https://github.com/Nikhil1602/React-Assignment.git
+  $ git clone https://github.com/Nikhil1602/react-assignment.git
 ```
 
 Run, the below commands:
 
 ```bash
-   cd React-Assignment
+   cd react-assignment
    npm install
    npm start
 ```
