@@ -1,8 +1,8 @@
 {
-  "homepage": "https://Nikhil1602.github.io/react-assignment",
   "name": "react-assignment",
+  "homepage": "https://nikhil1602.github.io/react-assignment",
   "version": "0.1.0",
-  "private": false,
+  "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.0",
     "@emotion/styled": "^11.10.0",

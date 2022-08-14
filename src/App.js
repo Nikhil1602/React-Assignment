@@ -28,9 +28,9 @@ const NavBar = () => {
 
 const App = () => {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/react-assignment">
       <Routes>
-        <Route path="/" element={<NavBar />} />
+        <Route exact path="/" element={<NavBar />} />
         <Route path="/taskOne" element={<TaskOne />} />
         <Route path="/taskTwo" element={<TaskTwo />} />
       </Routes>
